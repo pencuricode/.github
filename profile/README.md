@@ -1,6 +1,8 @@
-<h1 align='center'>PenucuriCode Community</h1>
+<h1 align='center'>👩‍💻 PenucuriCode Community 👩‍💻</h1>
 
 <a href="https://kaixin.my.id" target="_blank"> <img src="https://cdn.discordapp.com/attachments/907202627329220618/1061458880456040468/logo.jpg" height="350" alt="GarudaID Github"/></a>
+
+<h3 align='center'>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</h3>
 <hr>
 
 <br><br>2.  ✨ **OPEN SOURCE**<br>
